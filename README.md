@@ -40,6 +40,7 @@ The system uses **vanilla CSS** for styling and a **custom logging middleware** 
     }
   ]
 }
+```json
 
 4. Technology Stack & Justification
 Layer	Technology	Justification
